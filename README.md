@@ -9,9 +9,10 @@ This study used data between 2007-2018 obtained from the National Hospital Ambul
 Process:
 It is recommended/required that the code available in this repository be run in order.
 1) Download all datasets - years 2007 to 2018
-2) [1 Run Me] ED Formats Only (update file paths)
-3) [2 Run Me] ED Full Dataset (update file paths)
-4) [999 Run Me] Final Data Preparation & Analysis - reflects final changes of last iteration (update file paths)
+2) Build and run the import/preparation templates for each year - this builds the SAS data files from the provided .txt files
+3) [1 Run Me] ED Formats Only (update file paths)
+4) [2 Run Me] ED Full Dataset (update file paths)
+5) [999 Run Me] Final Data Preparation & Analysis - reflects final changes of last iteration (update file paths)
 ** This will be updated as the analysis continues to reflect the most up to date version of code.
 
 Additional Notes:
